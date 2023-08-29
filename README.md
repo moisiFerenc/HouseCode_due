@@ -9,7 +9,7 @@ In the project diagram you can see, the smart home system architecture:
 Here you can see, the hardware part of the project:
 ![BUZZER](https://github.com/moisiFerenc/HouseCode_due/assets/78962708/650b703b-4da3-4446-a468-c375c409e10d)
 ![serialcommunication](https://github.com/moisiFerenc/HouseCode_due/assets/78962708/a3dbd78f-b88c-4a06-973c-f7173ac65775)
-![DTHolvas](https://github.com/moisiFerenc/HouseCode_due/assets/78962708/84791267-30f3-419e-91d3-a1ab06e6ee34)
+
 ![controlpanelWidget](https://github.com/moisiFerenc/HouseCode_due/assets/78962708/29088774-5fb9-48c2-85a7-2ee3e455b172)
 ![controllpanelcontrol](https://github.com/moisiFerenc/HouseCode_due/assets/78962708/a7f301f0-8b0f-447f-936d-8e4d377eacf0)
 ![oleddisplay](https://github.com/moisiFerenc/HouseCode_due/assets/78962708/eb06bae4-13a7-4d9b-ba38-6015644e6593)
